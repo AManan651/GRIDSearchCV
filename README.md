@@ -1,0 +1,1 @@
+gridsearchCV(https://colab.research.google.com/drive/1UW41peKdHJlHcl8O8SWlxfNnwwMRsVMZ?usp=sharing), crossvalidation(https://colab.research.google.com/drive/1JigZ4KJhRGWu1z9A09T7n2SxjnfwNHS6?usp=sharing)
